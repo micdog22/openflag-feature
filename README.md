@@ -1,5 +1,5 @@
 
-# OpenFlag — Feature Flags self-hosted (Java • Spring Boot)
+# OpenFlag - Feature Flags self-hosted (Java • Spring Boot)
 
 Servidor de **feature flags** auto-hospedado, simples e leve, com API de administração e endpoint de avaliação para apps e serviços. Útil para liberar funcionalidades gradualmente, fazer canary/rollout percentual, ou ativar recursos por país/usuário — um tipo de serviço que muitas vezes é pago.
 
