@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/openflag
+    username: openflag
+    password: openflag
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
